@@ -141,14 +141,6 @@ You can add a screenshot of your calculator GUI here for your GitHub README:
 <img width="497" height="654" alt="image" src="https://github.com/user-attachments/assets/7364924d-8fb8-410f-b7b5-2bab744724b0" />
 
 
-🧑‍💻 Author
-
-P.Srikesh
-B.Tech CSE, SRM Institute of Science and Technology
-📍 Kattankulathur
-
-GitHub: https://github.com/srikesh-10
-
 🏁 Project Status
 
 ✅ Completed and Working
